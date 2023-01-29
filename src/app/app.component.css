@@ -1,0 +1,6 @@
+.container{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to bottom, #2C5364, #203A43, #0F2027);
+}

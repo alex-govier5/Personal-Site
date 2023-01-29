@@ -1,1 +1,33 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    margin: 0;
+}
+
+h1{
+    margin: 0;
+}
+
+hr{
+    background-color: black;
+    color: black;
+    width: 80%;
+    border: none;
+    height: 0.1vw;
+}
+
+a{
+    transition: all .4s ease-in;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    transition: all .4s ease-in;
+    color: grey;
+}
+
+@font-face{
+    font-family: 'Quicksand';
+    src: url('src/assets/Quicksand-VariableFont_wght.ttf')
+}
+

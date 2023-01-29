@@ -1,0 +1,45 @@
+.home{
+    font-family: "Quicksand";
+    text-align: center;
+    font-size: 2vw;
+    color: black;
+    margin-top: 10px;
+}
+
+.links{
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.link1{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 33.33%;
+}
+
+.link2{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 33.33%;
+}
+
+.link3{
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 33.33%;
+}
+
+.logo{
+    height: 8vw;
+    width: 8vw;
+}
+
+box-icon{
+    margin-left: 10px;
+    margin-right: 10px;
+}
